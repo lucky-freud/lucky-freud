@@ -1,0 +1,6 @@
+Tablet-mi v0.2 final
+ZIP_SHA256=04acb0dea7d1a8575b6c049de134446fefbc88ffe1cc626dcfdef14866866e35
+ENC_SHA256=2ec5baa954dbfb6ce2d58c07579fa473a47a9e161eac6828eaf9f309410f608c
+PARTS=part01,part02,part03_07
+SOURCE_PRIVATE_REPO=lucky-freud/Tablet-mi
+SOURCE_PATH=tb311fu-moneroocean-4gb-v0.2
